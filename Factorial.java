@@ -13,6 +13,6 @@ return result;
 public static void main (String[] args){
    int number=5;
    System.out.println("Factorial of"+number+"is"+compute(number));
-System.out.println("after updation");
+   System.out.println(" after updation");
 }
 }
